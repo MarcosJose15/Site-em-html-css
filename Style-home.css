@@ -1,0 +1,82 @@
+body {
+  
+  }    
+
+#banner {
+   width: 100%;
+}
+
+
+.principal{
+
+   background: #CCCCCC;
+   padding: 30px;
+
+}
+
+.titulo-principal{
+
+   padding-left: 20px;
+}
+
+.titulo-center{
+
+   text-align: center;
+}
+
+
+
+
+#frase   {
+
+   font-size: 20px
+}        
+ 
+
+p{
+   text-align: center
+     
+}
+
+
+ em strong { 
+
+         color: gold;
+
+}
+
+.beneficios{
+   background: #FFFFFF;
+   padding: 20px;
+}
+
+
+    
+.itens{
+   font-style: italic;
+  }
+
+ul{
+  display: inline-block;
+  vertical-align:top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imgbene{
+   width: 50%;
+}
+
+footer{
+
+   text-align: center;
+   background: url("bg.jpg");
+   padding: 40px 0;
+}
+
+.copyrights{
+   color: #FFFFFF;
+   font-size: 13px;
+   margin-top: 30px;
+
+}
